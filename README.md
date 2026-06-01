@@ -1,3 +1,5 @@
+<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/bc46265f-dd04-4a21-aa0a-6be17bcaeb97" />
+
 # FluxCalc
 
 > Free Online Calculators, Developer Tools & Everyday Utilities.
